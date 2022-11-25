@@ -1,4 +1,3 @@
-### KAC-DataPreprocessing ###
 # Data Preprocessing script for KAC Rent-A-Tech Service(22.11)
 
 1. Get excel file and make dataframe
